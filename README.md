@@ -4,7 +4,7 @@ A small, personal blog about video games — built while learning React, Redux, 
 
 No editorial team, no sponsored posts, just one person writing about the games they've been playing (and occasionally ranting about a boss fight that ruined their week).
 
-🔗 **Live site:** [game-blog-777.vercel.app](https://straffed.vercel.app/)
+🔗 **Live site:** [straffed.vercel.app](https://straffed.vercel.app/)
 
 ---
 
